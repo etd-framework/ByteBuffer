@@ -1,6 +1,6 @@
 <?php
 
-namespace t3ran13\ByteBuffer;
+namespace EtdSolutions\ByteBuffer;
 
 interface WriteableBuffer {
 	public function write($string, $offset);

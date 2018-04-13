@@ -1,6 +1,6 @@
 <?php
 
-namespace t3ran13\ByteBuffer;
+namespace EtdSolutions\ByteBuffer;
 
 interface ReadableBuffer {
 	public function read($start, $end);

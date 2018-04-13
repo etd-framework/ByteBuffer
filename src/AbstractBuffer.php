@@ -1,6 +1,6 @@
 <?php
 
-namespace t3ran13\ByteBuffer;
+namespace EtdSolutions\ByteBuffer;
 
 abstract class AbstractBuffer implements ReadableBuffer, WriteableBuffer {
 	abstract public function __construct($length);
